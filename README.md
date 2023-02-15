@@ -1,6 +1,4 @@
-# Assignment_Web_Scraping_Emotion_Mining
-### Problem Statement
-## Perform sentimental analysis: 
+# NLP Project
 ### 1) Extract reviews of any product from ecommerce website like amazon
 ### 2) Perform emotion mining
 ![image](https://user-images.githubusercontent.com/99672298/175780442-68f92920-08cf-4e89-8042-2c30cd73437b.png)
@@ -14,14 +12,11 @@
 ![image](https://user-images.githubusercontent.com/99672298/175780478-eefe6a12-839f-4c9a-ba81-21d550b6724f.png)
 ![image](https://user-images.githubusercontent.com/99672298/175780481-22e02c73-76e4-4959-b44c-2dbcf2f0a662.png)
 
-## Author
+
 
 <table>
 <tr>
 <td>
-     <img src="https://avatars.githubusercontent.com/u/99672298?v=4" width="180"/>
-     
-     moindalvs@gmail.com
 
 <p align="center">
 <a href = "https://github.com/MoinDalvs"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>

@@ -11,18 +11,3 @@
 ![image](https://user-images.githubusercontent.com/99672298/175780473-0a3d44a0-5cd5-4d52-aea9-d77d04ab8557.png)
 ![image](https://user-images.githubusercontent.com/99672298/175780478-eefe6a12-839f-4c9a-ba81-21d550b6724f.png)
 ![image](https://user-images.githubusercontent.com/99672298/175780481-22e02c73-76e4-4959-b44c-2dbcf2f0a662.png)
-
-
-
-<table>
-<tr>
-<td>
-
-<p align="center">
-<a href = "https://github.com/MoinDalvs"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://twitter.com/DalvsHubot"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
-<a href = "https://www.linkedin.com/in/moin-dalvi-277b0214a//"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
-</p>
-</td>
-</tr> 
-  </table>
